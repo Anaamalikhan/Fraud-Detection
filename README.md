@@ -55,7 +55,7 @@ This project simulates a real-world workflow:
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/Anaamalikhan/Fraud-Detection-ai.git
+git clone https://github.com/Anaamalikhan/Fraud-Detection.git
 cd fraud-detection-ai
 🧪 Input Features
 Feature	Description
